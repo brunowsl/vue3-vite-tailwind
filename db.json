@@ -1,0 +1,20 @@
+{
+    "escolas": [
+        {
+            "id": 1,
+            "nome": "Escola Municipal de Ensino Fundamental I"
+        },
+        {
+            "id": 2,
+            "nome": "Escola  II"
+        },
+        {
+            "id": 3,
+            "nome": "Escola  III"
+        },
+        {
+            "id": 4,
+            "nome": "Escola  IV"
+        }
+    ]
+}
